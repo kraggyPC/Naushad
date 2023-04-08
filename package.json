@@ -13,10 +13,11 @@
   "author": "Kaif Shaikh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kraggy09/GitHub-Profile-Fetcher/issues"
+    "url": "https://github.com/kraggy09/Landing-Page/issues"
   },
-  "homepage": "https://github.com/kraggy09/GitHub-Profile-Fetcher#readme",
+  "homepage": "https://github.com/kraggy09/Landing-Page",
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "parcel": "^2.8.3",
     "postcss": "^8.4.21",
     "process": "^0.11.10",
