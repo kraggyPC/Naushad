@@ -8,7 +8,8 @@
     "build": "parcel build index.html"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/kraggy09/Landing-Page.git"
   },
   "author": "Kaif Shaikh",
   "license": "ISC",
